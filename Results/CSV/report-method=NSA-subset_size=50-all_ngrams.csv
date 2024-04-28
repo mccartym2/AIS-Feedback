@@ -1,0 +1,3 @@
+n-gram_size,whole_string-avg_correct,whole_string-avg_incorrect,partial_string-avg_correct,partial_string-avg_incorrect
+6,50.0,50.0,55.3125,44.6875
+6,68.109375,31.890625,49.953125,50.046875

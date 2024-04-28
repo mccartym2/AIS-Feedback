@@ -1,0 +1,4 @@
+for file in *.exe
+do
+  hexdump "$file" >> "$file".out
+done
